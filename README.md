@@ -7,8 +7,8 @@ folder full of video -> all audio + 1 audio with embedded metadeta
 2.creat virtual env
   ``python3 -m venv venv``
 3.enter virtual env 
-  ~windows:``venv\Scripts\activate``~
-  ~linux/mac:``source venv/bin/activate``~
+  windows:``venv\Scripts\activate``
+  linux/mac:``source venv/bin/activate``
 
 4.run: 
   ``python3 main.py``
